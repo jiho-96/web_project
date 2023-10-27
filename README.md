@@ -20,4 +20,3 @@
 ![image](https://github.com/jiho-96/web_project/assets/145963790/e5064b69-411a-4826-b3e0-d43023703136)
 ![image](https://github.com/jiho-96/web_project/assets/145963790/c704052c-8f1f-4dc7-b412-7cc9aeae5cf2)
 ![image](https://github.com/jiho-96/web_project/assets/145963790/7de3a774-8fbe-4461-b7cc-80e963664747)
-
